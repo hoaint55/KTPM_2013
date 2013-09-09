@@ -1,6 +1,4 @@
 /* kiem thu cho ham bac nhat */
-
-//linh tinh
 public class test
 {
 	static int giaiPTB1 (int a, int b){
