@@ -1,4 +1,4 @@
-/* kiem thu cho ham bac nhat */
+/* kiem thu cho ham bac nhat thay lam */
 public class test
 {
 	static int giaiPTB1 (int a, int b){
